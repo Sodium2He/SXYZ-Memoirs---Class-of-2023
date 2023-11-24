@@ -2,42 +2,42 @@
 
 此处应该有照片（欢迎来安放）
 
-![descript](./media/image2.jpg){width="3.0208333333333335in"
-height="3.125in"}![descript](./media/image3.jpg){width="4.53125in"
-height="6.28125in"}![descript](./media/image4.png){width="3.7083333333333335in"
-height="3.6005325896762903in"}![descript](./media/image5.png){width="6.299305555555556in"
-height="4.732353455818023in"}![descript](./media/image6.jpg){width="3.9895833333333335in"
-height="2.9921883202099737in"}![descript](./media/image7.png){width="6.299305555555556in"
-height="11.198765310586177in"}![descript](./media/image8.png){width="6.299305555555556in"
-height="8.395792869641294in"}![descript](./media/image9.png){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image10.png){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image11.png){width="6.299305555555556in"
-height="8.399073709536308in"}![descript](./media/image12.png){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image13.png){width="6.299305555555556in"
-height="8.399073709536308in"}![descript](./media/image14.png){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image15.png){width="6.299305555555556in"
-height="3.4843985126859143in"}👆🏻这8张dwd
+![descript](./media/image2.jpg)
+![descript](./media/image3.jpg)
+![descript](./media/image4.png)
+![descript](./media/image5.png)
+![descript](./media/image6.jpg)
+![descript](./media/image7.png)
+![descript](./media/image8.png)
+![descript](./media/image9.png)
+![descript](./media/image10.png)
+![descript](./media/image11.png)
+![descript](./media/image12.png)
+![descript](./media/image13.png)
+![descript](./media/image14.png)
+![descript](./media/image15.png)
+👆🏻这8张dwd
 
-![descript](./media/image16.png){width="6.299305555555556in"
-height="8.399073709536308in"}
+![descript](./media/image16.png)
 
-![descript](./media/image17.jpg){width="6.299305555555556in"
-height="2.9073720472440945in"}![descript](./media/image18.jpg){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image19.png){width="6.299305555555556in"
-height="4.7235564304461946in"}![descript](./media/image20.jpg){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image21.png){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image22.png){width="6.299305555555556in"
-height="4.722629046369204in"}![descript](./media/image23.png){width="6.299305555555556in"
-height="4.722629046369204in"}![descript](./media/image24.jpg){width="6.299305555555556in"
-height="6.299305555555556in"}![descript](./media/image25.jpg){width="6.299305555555556in"
-height="8.399073709536308in"}![descript](./media/image26.png){width="6.299305555555556in"
-height="8.402350174978128in"}![descript](./media/image27.jpg){width="6.299305555555556in"
-height="4.724479440069992in"}👆是最后一天离开的时候拍的🥺
 
-![descript](./media/image28.png){width="6.299305555555556in"
-height="4.725217629046369in"}
+![descript](./media/image17.jpg)
+![descript](./media/image18.jpg)
+![descript](./media/image19.png)
+![descript](./media/image20.jpg)
+![descript](./media/image21.png)
+![descript](./media/image22.png)
+![descript](./media/image23.png)
+![descript](./media/image24.jpg)
+![descript](./media/image25.jpg)
+![descript](./media/image26.png)
+![descript](./media/image27.jpg)
+👆是最后一天离开的时候拍的🥺
 
-### ![descript](./media/image29.jpg){width="6.299305555555556in" height="4.724479440069992in"}![descript](./media/image30.jpg){width="6.299305555555556in" height="4.724479440069992in"}![descript](./media/image31.jpg){width="6.299305555555556in" height="4.724479440069992in"}![descript](./media/image32.png){width="6.299305555555556in" height="9.448958880139983in"}![descript](./media/image33.png){width="6.299305555555556in" height="3.54578302712161in"}
+![descript](./media/image28.png)
+
+
+### ![descript](./media/image29.jpg) ![descript](./media/image30.jpg) ![descript](./media/image31.jpg) ![descript](./media/image32.png) ![descript](./media/image33.png)
 
 ### 0/编写须知
 
@@ -264,8 +264,8 @@ yjh真的是才子
 
 插一张活力满满的雪萍姐姐～
 
-![descript](./media/image34.jpg){width="6.299305555555556in"
-height="4.199537401574803in"}
+![descript](./media/image34.jpg)
+
 
 ##### 1.3沈栋啸
 
@@ -299,8 +299,7 @@ height="4.199537401574803in"}
 
 我sdx这点骨气还是有的！
 
--   ![descript](./media/image35.png){width="6.299305555555556in"
-    height="11.192933070866141in"}你懂了吗你真的懂了吗
+-   ![descript](./media/image35.png) 你懂了吗你真的懂了吗
 
 头发永远油油的，一洗完我们都知道了（笑死了别骂了
 
@@ -362,8 +361,8 @@ height="4.199537401574803in"}
 
 ##### 1.4陈华
 
-![descript](./media/image36.png){width="6.299305555555556in"
-height="4.199537401574803in"}
+![descript](./media/image36.png)
+
 
 。。。frang简单的wa
 
@@ -422,15 +421,15 @@ se点se线
 
 ##### 1.6巍巍
 
-![descript](./media/image37.png){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image38.png){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image39.png){width="6.299305555555556in"
-height="4.199537401574803in"}让我看看语文课讲什么科目的作业（doge）
+![descript](./media/image37.png)
+![descript](./media/image38.png)
+![descript](./media/image39.png)
+让我看看语文课讲什么科目的作业（doge）
 
 再不擦黑板jld开除了！jld：有这种h事！
 
-![descript](./media/image40.png){width="6.299305555555556in"
-height="4.199537401574803in"}
+![descript](./media/image40.png)
+
 
 怎么好这个样子的辣！！
 
@@ -560,24 +559,24 @@ dan板
 
 电容的单位是pf（鹏飞）\~
 
-![descript](./media/image41.jpg){width="6.299305555555556in"
-height="8.387409230096239in"}![descript](./media/image42.jpg){width="4.145833333333333in"
-height="3.90625in"}![descript](./media/image43.jpg){width="4.03125in"
-height="4.395833333333333in"}![descript](./media/image44.jpg){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image45.jpg){width="6.299305555555556in"
-height="7.383801399825022in"}
+![descript](./media/image41.jpg)
+![descript](./media/image42.jpg)
+![descript](./media/image43.jpg)
+![descript](./media/image44.jpg)
+![descript](./media/image45.jpg)
+
 
 ##### 1.9小智
 
-![descript](./media/image46.png){width="6.299305555555556in"
-height="4.199537401574803in"}（dwd）
+![descript](./media/image46.png)
+（dwd）
 
-![descript](./media/image47.jpg){width="3.2604057305336833in"
-height="4.838951224846894in"}![descript](./media/image48.jpg){width="6.299305555555556in"
-height="4.724479440069992in"}
+![descript](./media/image47.jpg)
+![descript](./media/image48.jpg)
 
-![descript](./media/image49.png){width="6.299305555555556in"
-height="3.8423720472440945in"}
+
+![descript](./media/image49.png)
+
 
 生日快日节日快日
 
@@ -629,11 +628,11 @@ sjt：三星稻草人！直接卖掉一张稻草人买一张稻草人
 
 下面的图也是物理竞赛的时候，小智讲电容的作用时画出的图，这就是传说中的爱情之电流吗
 
-![descript](./media/image50.png){width="3.74873031496063in"
-height="6.3893143044619425in"}关于动量守恒和动量前后不变的区别是…是否专一？
+![descript](./media/image50.png)
+关于动量守恒和动量前后不变的区别是…是否专一？
 
-![descript](./media/image51.png){width="2.3020833333333335in"
-height="2.5729166666666665in"}zzh出的读数题，考物理的忘不了
+![descript](./media/image51.png)
+zzh出的读数题，考物理的忘不了
 
 教坛新秀！
 
@@ -641,12 +640,12 @@ height="2.5729166666666665in"}zzh出的读数题，考物理的忘不了
 
 ##### 1.10老杨
 
-![descript](./media/image52.png){width="6.299305555555556in"
-height="4.199537401574803in"}
+![descript](./media/image52.png)
 
-![descript](./media/image53.jpg){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image54.jpg){width="6.299305555555556in"
-height="9.44771762904637in"}
+
+![descript](./media/image53.jpg)
+![descript](./media/image54.jpg)
+
 
 行政楼那帮人智商最低的啦
 
@@ -698,8 +697,8 @@ Ma Deyao（是走狗）
 
 ##### 1.11邵张彬
 
-![descript](./media/image55.jpg){width="6.299305555555556in"
-height="9.448958880139983in"}
+![descript](./media/image55.jpg)
+
 
 好，杀！
 
@@ -802,8 +801,8 @@ zejun～
 
 批评某位x姓同学的时候音响掉了
 
-![descript](./media/image56.jpg){width="5.322916666666667in"
-height="5.270833333333333in"}
+![descript](./media/image56.jpg)
+
 
 ##### 1.14大师（master）
 
@@ -839,9 +838,9 @@ height="5.270833333333333in"}
 
 ##### 1.15龙珠
 
-![descript](./media/image57.png){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image58.png){width="6.299305555555556in"
-height="4.199537401574803in"}（dwd）
+![descript](./media/image57.png)
+![descript](./media/image58.png)
+（dwd）
 
 热烈而灿烂地活着
 
@@ -915,10 +914,10 @@ ze个配平，38324，蛮简单的啦
 
 求赵特的照片
 
-![descript](./media/image59.jpg){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image60.jpg){width="6.299305555555556in"
-height="4.724479440069992in"}![descript](./media/image61.png){width="6.299305555555556in"
-height="6.310073272090989in"}
+![descript](./media/image59.jpg)
+![descript](./media/image60.jpg)
+![descript](./media/image61.png)
+
 
 ##### 1.17陈连原
 
@@ -998,8 +997,8 @@ fwl眼中的AD钙奶，自由的象征
 
 坚守在强只因班打电动吗 )
 
-![descript](./media/image62.jpg){width="6.299305555555556in"
-height="4.7235564304461946in"}
+![descript](./media/image62.jpg)
+
 
 亡羊补牢
 
@@ -1058,8 +1057,8 @@ hzy的12条高质量高考志愿😘(建议单开楼)(开楼资次)怎么办，�
 （↑谁还有录音啊）听听！（录音的前两天刚删了）寄 没事有备份
 （照片有备份嘛）
 
-![descript](./media/image63.png){width="6.299305555555556in"
-height="0.2519717847769029in"}备份哥来点文字 找强只因班楼编辑
+![descript](./media/image63.png)
+备份哥来点文字 找强只因班楼编辑
 
 录音可以上GitHub交pull request，我会合并，见最后一节Appendix
 
@@ -1163,23 +1162,21 @@ cj风评被害
 
 在这里谢谢笛姐的奶茶！
 
-![descript](./media/image64.jpg){width="6.299305555555556in"
-height="8.04731627296588in"}![descript](./media/image65.jpg){width="4.75in"
-height="4.0in"}笛姐美美美
+![descript](./media/image64.jpg)
+![descript](./media/image65.jpg)笛姐美美美
 
 ##### 1.24建光
 
 经典手势v1.0
+![descript](./media/image66.jpg)
 
-![descript](./media/image66.jpg){width="6.299305555555556in"
-height="3.5435772090988626in"}
 
-![descript](./media/image67.png){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image68.jpg){width="6.299305555555556in"
-height="9.448958880139983in"}武魂：小锤锤！ 👈🏻武魂真身！牛🐮
+![descript](./media/image67.png)
+![descript](./media/image68.jpg)
+武魂：小锤锤！ 👈🏻武魂真身！牛🐮
 
-![descript](./media/image69.jpg){width="6.299305555555556in"
-height="9.448958880139983in"}）必须祭出这两张图了！）
+![descript](./media/image69.jpg)
+）必须祭出这两张图了！）
 
 小美女～
 
@@ -1199,8 +1196,8 @@ height="9.448958880139983in"}）必须祭出这两张图了！）
 
 这张图不用解释
 
-![descript](./media/image70.jpg){width="6.299305555555556in"
-height="8.399073709536308in"}
+![descript](./media/image70.jpg)
+
 
 ##### 1.25张叠
 
@@ -1398,8 +1395,7 @@ dead cells
 
 挂点芳芳照片
 
-![descript](./media/image71.jpg){width="2.2916666666666665in"
-height="2.2916666666666665in"}
+![descript](./media/image71.jpg)
 
 救命芳芳别太爱了
 
@@ -1409,8 +1405,8 @@ sxyz初恋女神芳芳（永远的神
 
 真的太爱了…
 
-![descript](./media/image72.jpg){width="6.299305555555556in"
-height="8.399073709536308in"}芳门！
+![descript](./media/image72.jpg)
+芳门！
 
 芳门永存！
 
@@ -1420,10 +1416,10 @@ height="8.399073709536308in"}芳门！
 
 芳门创建者 信徒pll实名
 
-![descript](./media/image73.png){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image74.png){width="6.299305555555556in"
-height="4.199537401574803in"}![descript](./media/image75.png){width="6.299305555555556in"
-height="4.199537401574803in"}（dwd）
+![descript](./media/image73.png)
+![descript](./media/image74.png)
+![descript](./media/image75.png)
+（dwd）
 
 芳门！
 
@@ -1683,10 +1679,10 @@ wql stand out all \~\~\~the students in the sxyz
 
 **我超哥岁月静好的经典图安排！**
 
-![descript](./media/image76.jpg){width="6.197916666666667in"
-height="4.216146106736658in"}**永远的超哥！**![descript](./media/image77.png){width="4.302083333333333in"
-height="2.8541666666666665in"}![descript](./media/image78.jpg){width="6.299305555555556in"
-height="4.199537401574803in"}**放一点收藏的超哥美图，超哥是个很幽默的老师，听他上课超有意思，如果我能坚持住不睡的话=\_=**
+![descript](./media/image76.jpg)
+**永远的超哥！**![descript](./media/image77.png)
+![descript](./media/image78.jpg)
+**放一点收藏的超哥美图，超哥是个很幽默的老师，听他上课超有意思，如果我能坚持住不睡的话=\_=**
 
 **同意楼上**
 
@@ -1696,8 +1692,8 @@ cyy：6
 
 ##### 1.33难道没有虞特吗
 
-![descript](./media/image79.jpg){width="2.054398512685914in"
-height="1.4791666666666667in"}
+![descript](./media/image79.jpg)
+
 
 他的著作在西亚地区被当作第二本古兰经日夜诵读
 
@@ -1806,8 +1802,8 @@ cyy全世界最牛逼的英语老师！！！
 
 （曾是英门，但英英作业和背诵太多了，我爱cyy最高效率的语料，高二一开学的美丽之旅语料让我震撼）
 
-![descript](./media/image80.jpg){width="6.299305555555556in"
-height="9.448958880139983in"}全天下最好的英语老师，全天下教作文最好的英语老师，我现在的大学作文没有一点是大学老师教的
+![descript](./media/image80.jpg)
+全天下最好的英语老师，全天下教作文最好的英语老师，我现在的大学作文没有一点是大学老师教的
 全是伊伊教的
 
 感谢伊伊捞我😭
@@ -2167,8 +2163,8 @@ Daddy有同学去问他懂不懂这隐含含义是什么，他说就是为了这
 
 ##### 1.44冲哥冲哥
 
-![descript](./media/image81.jpg){width="3.8593755468066493in"
-height="2.5729166666666665in"}
+![descript](./media/image81.jpg)
+
 
 为什么没有冲冲！！！
 
@@ -2190,8 +2186,8 @@ XXX的种羊业（艹）
 
 小卖部以一己之力拉高群贤路的GDP
 
-![descript](./media/image82.png){width="4.083333333333333in"
-height="2.301248906386702in"}
+![descript](./media/image82.png)
+
 
 (指着第一个圈，然后指着中间，）“这是你们。”
 
@@ -2204,8 +2200,8 @@ height="2.301248906386702in"}
 
 博哥😍
 
-![descript](./media/image83.jpg){width="6.299305555555556in"
-height="4.196912729658792in"}冲哥最帅！！！
+![descript](./media/image83.jpg)
+冲哥最帅！！！
 
 原本以为是领头羊，结果变成了牧羊犬
 
@@ -2311,8 +2307,8 @@ hjh扔我奶茶我记他一辈子（我好像知道你是谁了
 
 有啥比毕业送哈啤更离谱的操作？！
 
-![descript](./media/image84.jpg){width="6.299305555555556in"
-height="4.196733377077865in"}难得带女儿来学校玩（具体那天忘了，反正是周六那天有活动…）
+![descript](./media/image84.jpg)
+难得带女儿来学校玩（具体那天忘了，反正是周六那天有活动…）
 
 在学校体育馆教女儿打羽毛球，教到一半人不见了…
 
@@ -2901,8 +2897,8 @@ kjj！我爱你❤️
 
 从他的办公室顺走了很多牛奶
 
-![descript](./media/image85.jpg){width="6.299305555555556in"
-height="3.535485564304462in"}
+![descript](./media/image85.jpg)
+
 
 ##### 1.68张江
 
