@@ -1,0 +1,1 @@
+pandoc <inputfile> -t markdown-smart -o <outputfile> --extract-media=.
