@@ -31,7 +31,10 @@
 
  - 创建仓库
 
-##### 插播一则广告
+#### 插播一则广告
+
 Reading books with ReadEra
+
 Free, Fast & No Ads!
-https://play.google.com/store/apps/details?id=org.readera&hl=en
+
+<a href="https://play.google.com/store/apps/details?id=org.readera&hl=en">Get it on Google Play<a>
