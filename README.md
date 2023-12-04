@@ -30,3 +30,8 @@
 ### 2023.11.23
 
  - 创建仓库
+
+##### 插播一则广告
+Reading books with ReadEra
+Free, Fast & No Ads!
+https://play.google.com/store/apps/details?id=org.readera&hl=en
