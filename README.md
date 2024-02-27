@@ -16,10 +16,17 @@
 
     + pre文件夹：未稳定md
 
- - archive分支：docx原文件
+ - archive文件夹：docx原文件存档
 
+## 以下为更新日志
 
-### 2023.11.24更新
+### 2023.02.27 v.1.1b
+
+ - 正常更新
+
+ - 我现在搞懂pull request了
+
+### 2023.11.24 v.1.0b
 
  - 开始使用markdown格式进行版本控制
 
@@ -27,6 +34,14 @@
 
  - 删除pre分支，改用文件夹
 
-### 2023.11.23
+### 2023.11.23 v.0.1a
 
  - 创建仓库
+
+#### 插播一则广告
+
+Reading books with ReadEra
+
+Free, Fast & No Ads!
+
+<a href="https://play.google.com/store/apps/details?id=org.readera&hl=en">Get it on Google Play<a>
