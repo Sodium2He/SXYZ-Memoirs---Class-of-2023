@@ -44,4 +44,6 @@ Reading books with ReadEra
 
 Free, Fast & No Ads!
 
+
 <a href="https://play.google.com/store/apps/details?id=org.readera&hl=en">Get it on Google Play<a>
+
